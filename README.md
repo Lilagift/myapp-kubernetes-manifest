@@ -1,0 +1,1 @@
+# myapp-kubernetes-manifest
